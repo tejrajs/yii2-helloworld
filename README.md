@@ -27,7 +27,8 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
-```php<?php
-use app\components\HelloWorld;
+```php 
+<?php
+use app\tejrajs\HelloWorld;
 ?>
 <?= HelloWorld::widget(['message' => ' Yii2.0']) ?>```
