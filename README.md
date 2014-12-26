@@ -28,6 +28,6 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php<?php
-use app\components\HelloWidget;
+use app\components\HelloWorld;
 ?>
-<?= HelloWidget2::widget(['message' => ' Yii2.0']) ?>```
+<?= HelloWorld::widget(['message' => ' Yii2.0']) ?>```
