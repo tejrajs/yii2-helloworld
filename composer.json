@@ -1,8 +1,10 @@
 {
     "name": "tejrajs/yii2-helloworld",
+    "version": "0.0.1",
     "description": "Just A Hello World Yii2 Widget  ",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","helloworld"],
+    "homepage": "https://github.com/tejrajs/yii2-helloworld#readme",
     "license": "GPL-2.0",
     "authors": [
         {
@@ -10,6 +12,12 @@
             "email": "hello_teju96@gmail.com"
         }
     ],
+    "repositories":[
+   		{
+        	"type": "git",
+        	"url": "https://github.com/tejrajs/yii2-helloworld"
+    	}
+	],
     "require": {
         "yiisoft/yii2": "*"
     },

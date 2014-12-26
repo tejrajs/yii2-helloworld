@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist tejrajs/yii2-helloworld "*"
+php composer.phar require --prefer-dist tejrajs/yii2-helloworld "dev-master"
 ```
 
 or add
 
 ```
-"tejrajs/yii2-helloworld": "dev"
+"tejrajs/yii2-helloworld": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
