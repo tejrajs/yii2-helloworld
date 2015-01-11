@@ -1,6 +1,6 @@
 {
     "name": "tejrajs/yii2-helloworld",
-    "version": "0.0.1",
+    "version": "v0-beta.1",
     "description": "Just A Hello World Yii2 Widget  ",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","helloworld"],
@@ -9,7 +9,7 @@
     "authors": [
         {
             "name": "tej raj shrestha",
-            "email": "hello_teju96@gmail.com"
+            "email": "helloteju96@gmail.com"
         }
     ],
     "repositories":[
