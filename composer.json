@@ -15,7 +15,7 @@
     "repositories":[
    		{
         	"type": "git",
-        	"url": "https://github.com/tejrajs/yii2-helloworld"
+        	"url": "https://github.com/tejrajs/yii2-helloworld/tree/v0-beta.1"
     	}
 	],
     "require": {
