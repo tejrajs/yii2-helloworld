@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist tejrajs/yii2-helloworld "dev-master"
 or add
 
 ```
-"tejrajs/yii2-helloworld": "dev-master"
+"tejrajs/yii2-helloworld": "*"
 ```
 
 to the require section of your `composer.json` file.
